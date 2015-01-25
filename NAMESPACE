@@ -1,0 +1,2 @@
+import(Matrix, foreach, doParallel)
+exportPattern("^[[:alpha:]]+")

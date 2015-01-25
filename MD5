@@ -1,0 +1,13 @@
+af8822f37e53182aa8d975f850839a47 *DESCRIPTION
+af886714e9d154b454b6f4bf98461cba *NAMESPACE
+bc6017d5b283dc473dac1fed973246dd *R/hbm.R
+760d03084fce9e92e5049176e25190c8 *man/add.noise.Rd
+3f174b49bbc8b108259eb85e251cad36 *man/communicability.Rd
+102893c717510334822e19ff2c515d3b *man/detect.movement.Rd
+c95e4981a779b42e1a7e61ca6cd0534f *man/generate.random.conf.Rd
+8c931f594d27af7a67ec4a58918e36ae *man/get.movements.Rd
+e2062d200ed662f66c8dd1fa55a8841a *man/hbm-package.Rd
+65cdf90d0e29713f01faf8faedab11c1 *man/hbm.Rd
+d99eb4e8264e590bb029293086f47d97 *man/hbm.features.Rd
+46512c68dab94ff50796f88129ea7d16 *man/hierarchy.Rd
+8ca9288219bfa00c8cfc99807ca4b2d5 *man/mcl.Rd
