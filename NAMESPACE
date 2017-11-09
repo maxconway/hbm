@@ -1,2 +1,2 @@
-import(Matrix, foreach, doParallel)
+import(Matrix, foreach, doParallel, assertthat)
 exportPattern("^[[:alpha:]]+")
